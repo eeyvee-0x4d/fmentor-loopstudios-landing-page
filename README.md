@@ -26,7 +26,7 @@ Users should be able to:
 
 ### Screenshot
 
-![Screenshot](https://github.com/eeyvee-0x4d/fmentor-loopstudios-landing-page/blob/9d82cbc6d90c8c638211111239f482474977aabb/Screenshot.png)
+![Screenshot](./Screenshot.png)
 
 ### Links
 
